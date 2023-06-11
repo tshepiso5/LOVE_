@@ -1,0 +1,81 @@
+#header-nav {
+  background-color: #ECB984;
+}
+
+#logo-img{
+
+  /*background-image: url('./images/FB_IMG_1684749009828.png');*/
+
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  background-color: #FFFDD0;
+
+}
+
+
+#img_Size{
+  width: 20%;
+  height: 30%;
+  background-color: black;
+  padding: 0;
+  margin: 10px;
+}
+
+/* .lrgSection{
+background-image: url('css/images/FB_IMG_1684749009828.png');
+
+} */
+
+.jumb-size[src*="images/FB_IMG_1684749021757.jpg"]{
+  width: 100%;
+  height: 5%;
+
+}
+
+.logo-img[src*="images/FB_IMG_1684749009828.jpg"]{
+  width: 100%;
+  height: 100%x;
+  padding: 0;
+}
+
+.menu-item {
+  font-size: 2em;
+  text-align: center;
+  background-color: #D58258;
+}
+
+.menu-link {
+  text-decoration: none;
+
+}
+.container-fluid {
+  padding: 0;
+  margin: 0;
+
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+  font-weight: bold;
+
+}
+
+.brand-text {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 5px 5px 5px #222;
+}
+
+.brand-link {
+  text-decoration: none;
+  text-shadow: 5px 5px 5px #222
+
+}
+
+footer {
+  background-color: grey;
+  height: 150px;
+}
